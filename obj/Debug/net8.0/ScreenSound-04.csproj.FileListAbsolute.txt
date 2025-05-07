@@ -1,0 +1,14 @@
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\bin\Debug\net8.0\ScreenSound-04.exe
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\bin\Debug\net8.0\ScreenSound-04.deps.json
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\bin\Debug\net8.0\ScreenSound-04.runtimeconfig.json
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\bin\Debug\net8.0\ScreenSound-04.dll
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\bin\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ScreenSound-04.AssemblyInfo.cs
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ScreenSound-04.dll
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\refint\ScreenSound-04.dll
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
+C:\Users\joaov\Documents\C#\Api\csharp-curso-4-aula_5\obj\Debug\net8.0\ref\ScreenSound-04.dll
